@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Bem Vindo</h1>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
 
 ###
@@ -33,5 +35,20 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Petr3s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=tokyonight&locale=pt-br&hide_border=false&order=1&custom_title=Petres" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Petr3s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petr3s/Petr3s/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Petr3s/Petr3s/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Petr3s/Petr3s/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
